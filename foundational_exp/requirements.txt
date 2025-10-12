@@ -1,0 +1,7 @@
+langchain
+langchain-core
+langchain-experimental
+langchain-openai
+openai
+networkx
+matplotlib
