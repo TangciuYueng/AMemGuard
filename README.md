@@ -1,6 +1,16 @@
-# A-MemGuard: A Proactive Defense Framework for the LLM-based Agent Memory
+# A-MemGuard: A Proactive Defense Framework for LLM-Based Agent Memory
 
-This is the official repository for the paper [***A-MemGuard: A Proactive Defense Framework for the LLM-based Agent Memory***](https://arxiv.org/abs/2510.02373). Our work introduces a novel defense mechanism against memory attacks in LLM agents.
+<p align="center">
+  <a href="https://arxiv.org/abs/2510.02373">
+    <img src="https://img.shields.io/badge/arXiv-2510.02373-b31b1b.svg" alt="arXiv">
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Conference-ICML%202026-blue.svg" alt="ICML 2026">
+  </a>
+</p>
+
+This is the official repository for **A-MemGuard: A Proactive Defense Framework for LLM-Based Agent Memory**, accepted to **ICML 2026**.
+
 
 This project's experimental framework is built upon the original codebase of [AgentPoison](https://github.com/AI-secure/AgentPoison), adapting their attack simulation environment to develop and evaluate our defense strategies. 
 
